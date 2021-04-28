@@ -36,6 +36,7 @@ nosetests.xml
 .pydevproject
 
 venv
+logs
 app.db
 reapp.log*
 .vscode/settings.json
