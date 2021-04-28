@@ -37,6 +37,6 @@ nosetests.xml
 
 venv
 logs
-app.db
 reapp.log*
 .vscode/settings.json
+logs/microblog.log
